@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CompGraphics\lab5\bin\Debug\lab4.exe.config
+C:\Users\User\source\repos\CompGraphics\lab5\bin\Debug\lab4.exe
+C:\Users\User\source\repos\CompGraphics\lab5\bin\Debug\lab4.pdb
+C:\Users\User\source\repos\CompGraphics\lab5\bin\Debug\GraphicClassLibrary.dll
+C:\Users\User\source\repos\CompGraphics\lab5\bin\Debug\GraphicClassLibrary.pdb
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab5.StaticVisualization.resources
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab5.csproj.CopyComplete
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab4.exe
+C:\Users\User\source\repos\CompGraphics\lab5\obj\Debug\lab4.pdb
