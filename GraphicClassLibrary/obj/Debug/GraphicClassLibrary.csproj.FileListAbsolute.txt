@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\bin\Debug\GraphicClassLibrary.dll
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\bin\Debug\GraphicClassLibrary.pdb
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\obj\Debug\GraphicClassLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\obj\Debug\GraphicClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\obj\Debug\GraphicClassLibrary.dll
+C:\Users\User\source\repos\CompGraphics\GraphicClassLibrary\obj\Debug\GraphicClassLibrary.pdb

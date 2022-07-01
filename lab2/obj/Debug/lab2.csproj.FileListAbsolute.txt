@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CompGraphics\lab2\bin\Debug\lab2.exe.config
+C:\Users\User\source\repos\CompGraphics\lab2\bin\Debug\lab2.exe
+C:\Users\User\source\repos\CompGraphics\lab2\bin\Debug\lab2.pdb
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.fEnlighten.resources
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.exe
+C:\Users\User\source\repos\CompGraphics\lab2\obj\Debug\lab2.pdb

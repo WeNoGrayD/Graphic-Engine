@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CompGraphics\lab1\bin\Debug\lab1.exe.config
+C:\Users\User\source\repos\CompGraphics\lab1\bin\Debug\lab1.exe
+C:\Users\User\source\repos\CompGraphics\lab1\bin\Debug\lab1.pdb
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.exe
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.pdb
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.DrawLines.resources
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.DrawCircles.resources
+C:\Users\User\source\repos\CompGraphics\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
